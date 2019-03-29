@@ -1,0 +1,4 @@
+target 'LJNetWork’ do 
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+end
